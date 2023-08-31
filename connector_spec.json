@@ -21,7 +21,7 @@
       "maxLength": 40,
       "required": true,
       "description": "Thousand Eyes API Server Url",
-      "default": "",
+      "default": "https://api.thousandeyes.com",
       "example": "http://",
       "helpSection": "1. Navigate to the developer portal.\n2. Expand the Projects and Apps dropdown in the side navigation.\n3. Open the app that is associated with the API key and secret that you want to find or regenerate.\n4. Navigate to the Keys and tokens tab. From there, you will find all of the credentials associated with your app. "
     },
